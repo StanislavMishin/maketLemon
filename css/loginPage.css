@@ -1,0 +1,116 @@
+
+.block-authorization {
+    font-family: 'Josefin Sans';
+    letter-spacing: 0.025em;
+    line-height: 1.2;
+    color: #000000;
+    margin: 0 0 125px 0;
+    padding: 100px 0 0 0;
+}
+.container3 {
+    max-width: 840px;
+    margin: 0 auto;
+}
+.block-authorizationRow {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.block-authorization-title {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 8px 0;
+    
+}
+.block-authorization-line {
+    width: 271px;
+    height: 2px;
+    opacity: 0.3;
+    background-color: #555555;
+    margin: 0 0 28px 0;
+}
+
+.block-authorization-icons {
+    display: flex;
+    justify-content: center;
+    font-family: 'Font Awesome';
+    font-size: 22px;
+    line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    color: #555555;
+}
+.login {
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 13px rgba(11, 12, 12, 0.15);
+    padding: 20px 32px;
+}
+.login-form__caption {
+    margin: 0 0 23px 0;
+}
+.login-form__input-email {
+    width: 265px;
+    border: 1px solid #c2c2c2;
+    box-shadow: inset 1px 2px 7px 0px rgba(11,12,12,0.1);
+    padding: 12px 0 8px 15px;
+    margin: 0 0 20px 0;
+}
+.login-form__input-password {
+    width: 265px;
+    border: 1px solid #c2c2c2;
+    box-shadow: inset 1px 2px 7px 0px rgba(11,12,12,0.1);
+    padding: 12px 0 8px 15px;
+    margin: 0 0 16px 0;
+}
+.login-form-checkboxAndForgotPass {
+    opacity: 0.54;
+    font-size: 12px;
+    font-weight: 400;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0 0 33px 0;
+}
+.login-form__input-checkbox {
+    display: flex;
+}
+.login-form__input-checkbox input {
+    margin: 0 5px 0 0;
+} 
+
+.login-form__submit-login {
+    width: 105px;
+    height: 28px;
+    border: 1px solid #c2c2c2;
+    margin: 0 auto 22px auto;
+}
+.login-form__submit-login input {
+    background: rgb(255, 255, 255);
+}
+.login__icons {
+    margin: 0 0 15px 0;
+}
+.block-authorization-icons .fa-facebook-f {
+    font-size: 18px;
+    margin: 0 10px 0 0;
+}
+.login__Dont-have-an-account {
+    max-width: 230px;
+    opacity: 0.54;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 auto;
+}
+.btn1 {
+    border: 1px solid #c2c2c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Sans';
+    font-size: 12px;
+    line-height: 1.2;
+    font-weight: 300;
+    letter-spacing: 0.025em;
+    color: #000000;
+}
